@@ -10,7 +10,7 @@ My participation in this project aimed to practice, improvement and learn about 
 ### Tecnologias usadas: 
 [![Next](.markdown/next.png "Next")](https://nextjs.org/)
 [![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
-[![TailwindCSS](.markdown/tailwind.png "TailwindCSS")](https://tailwindcss.com/)
+[![TailwindCSS](.markdown/tailwindcss.png "TailwindCSS")](https://tailwindcss.com/)
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests.
 
