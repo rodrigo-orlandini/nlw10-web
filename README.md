@@ -5,10 +5,12 @@ The objective of this project is to provide an easy way to manage sports bets be
 
 My participation in this project aimed to practice, improvement and learn about new concepts related to **NextJS** and **Tailwind CSS**.
 
+---
+
 ### Tecnologias usadas: 
-* **_Typescript_***
-* **_NextJS_**
-* **_Tailwind_**
+[![Next](.markdown/next.png "Next")](https://nextjs.org/)
+[![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
+[![TailwindCSS](.markdown/tailwind.png "TailwindCSS")](https://tailwindcss.com/)
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests.
 
