@@ -7,7 +7,7 @@ My participation in this project aimed to practice, improvement and learn about 
 
 ---
 
-### Tecnologias usadas: 
+### Technologies: 
 [![Next](.markdown/next.png "Next")](https://nextjs.org/)
 [![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
 [![TailwindCSS](.markdown/tailwindcss.png "TailwindCSS")](https://tailwindcss.com/)
